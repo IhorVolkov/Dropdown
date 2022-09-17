@@ -2,4 +2,4 @@
 dropdown navigation
 
 
-https://ihorvolkov.github.io/dropdown/index.html
+https://ihorvolkov.github.io/Dropdown/
